@@ -1,6 +1,6 @@
 <!-- GAMER STYLE HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,50:1a0033,100:000000&height=190&section=header&text=LEVELING%20UP%20THE%20FUTURE&fontSize=42&fontColor=00F5FF&animation=twinkling" width="100%" />
+  <img src="Roshan0079" width="100%" />
 </p>
 
 <p align="center">
