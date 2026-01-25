@@ -1,6 +1,6 @@
 <!-- GAMER STYLE HERO -->
 <p align="center">
-  <img src="Roshan0079" width="100%" />
+  <img src="Roshan0079.jpeg" height="320" width="100%" />
 </p>
 
 <p align="center">
