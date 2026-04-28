@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Frontend+Developer;Gamer+%F0%9F%8E%AE;Student+Engineer;Building+the+Future+with+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=AI%2FML;Frontend+Developer;Gamer+%F0%9F%8E%AE;Student+Engineer;Building+the+Future+with+Code" />
 </p>
 
 <h2 align="center">👋 Hey, I'm Roshan Samant</h2>
