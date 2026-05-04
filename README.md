@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">👋 Hey, I'm Roshan Samant</h2>
-<h4 align="center">AI/ML Enthusiast • Frontend Developer • Gamer</h4>
+<h4 align="center">AI/ML • Frontend Developer • Gamer</h4>
 
 <p align="center">
   A first-year student exploring the worlds of <b>Artificial Intelligence</b>,  
