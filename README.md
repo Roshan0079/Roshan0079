@@ -11,7 +11,7 @@
 <h4 align="center">AI/ML • Frontend Developer • Gamer</h4>
 
 <p align="center">
-  A first-year student exploring the worlds of <b>Artificial Intelligence</b>,  
+  A second-year AIML student exploring the worlds of <b>Artificial Intelligence</b>,  
   <b>Modern Web</b>, and <b>Creative Technology</b>.  
   I code in the day, game at night, and dream of building the future 🌌
 </p>
@@ -20,7 +20,7 @@
 
 ## 🧠 Player Profile
 
-- 🎓 First-year CSE student  
+- 🎓 Second-year CSE AIML student  
 - 🤖 Passionate about AI & Machine Learning  
 - 🎨 Frontend developer who loves clean UI  
 - 🎮 Gamer with focus, strategy & discipline  
