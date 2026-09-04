@@ -30,7 +30,7 @@
 
 ## 📚 Currently Leveling Up
 
-🧠 Python for AI & Data Science  
+🧠 Python for AI  
 ⚙️ Machine Learning Fundamentals  
 🪄 Prompt Engineering (AI Interaction Mastery)  
 🌐 Frontend Development  
