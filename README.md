@@ -21,7 +21,7 @@
 ## 🧠 Player Profile
 
 - 🎓 Second-year CSE AIML student  
-- 🤖 Passionate about AI & Machine Learning  
+- 🤖 AI & Machine Learning  
 - 🎨 Frontend developer who loves clean UI  
 - 🎮 Gamer with focus, strategy & discipline  
 - ⚡ Always learning. Always leveling up.
